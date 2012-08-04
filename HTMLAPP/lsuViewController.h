@@ -10,4 +10,6 @@
 
 @interface lsuViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIWebView *display;
+
 @end

@@ -22,14 +22,14 @@
 		5B56020615CC9CFA0092DA6B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5B56020815CC9CFA0092DA6B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5B56020A15CC9CFA0092DA6B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5B56020E15CC9CFA0092DA6B /* HTMLAPP-Info.plist */ = {isa = PBXFileReference; path = "HTMLAPP-Info.plist"; sourceTree = "<group>"; };
+		5B56020E15CC9CFA0092DA6B /* HTMLAPP-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HTMLAPP-Info.plist"; sourceTree = "<group>"; };
 		5B56021015CC9CFA0092DA6B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5B56021215CC9CFA0092DA6B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5B56021415CC9CFA0092DA6B /* HTMLAPP-Prefix.pch */ = {isa = PBXFileReference; path = "HTMLAPP-Prefix.pch"; sourceTree = "<group>"; };
-		5B56021515CC9CFA0092DA6B /* lsuAppDelegate.h */ = {isa = PBXFileReference; path = lsuAppDelegate.h; sourceTree = "<group>"; };
+		5B56021415CC9CFA0092DA6B /* HTMLAPP-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HTMLAPP-Prefix.pch"; sourceTree = "<group>"; };
+		5B56021515CC9CFA0092DA6B /* lsuAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lsuAppDelegate.h; sourceTree = "<group>"; };
 		5B56021615CC9CFA0092DA6B /* lsuAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lsuAppDelegate.m; sourceTree = "<group>"; };
 		5B56021915CC9CFA0092DA6B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		5B56021B15CC9CFA0092DA6B /* lsuViewController.h */ = {isa = PBXFileReference; path = lsuViewController.h; sourceTree = "<group>"; };
+		5B56021B15CC9CFA0092DA6B /* lsuViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lsuViewController.h; sourceTree = "<group>"; };
 		5B56021C15CC9CFA0092DA6B /* lsuViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lsuViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
